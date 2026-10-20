@@ -9,15 +9,15 @@
   },
   "nebula-botanica-v1.zip": {
     "bytes": 11350595,
-    "sha256": "aefebfc3b53aeda37daa4270035b96aedec64da89ab8cedcc32c2f5c2a37bf6d",
+    "sha256": "0eaa384a1f353144f1f7597745d6ad68ba3a37f2fbbb1ea19d6887f18429b9b0",
     "files": [
       "nebula-botanica.html",
       "LEEME.txt"
     ]
   },
   "portafolio-v1.zip": {
-    "bytes": 22965063,
-    "sha256": "6d22bfbc87fa291321b8a3d85a48b07f5cfaa418a5ae3cca4028cc48804e0396",
+    "bytes": 22965226,
+    "sha256": "89509f3a8b8df143339782010d9d50a0359ec7317541b7eb1f2a341b141e04bc",
     "files": [
       "index.html",
       "bruma-de-olivo.html",
