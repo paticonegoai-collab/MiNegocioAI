@@ -1,17 +1,37 @@
-# Bruma de Olivo · primera versión
+# Archivo de ideas · portafolio de conceptos
 
-## Descargar y abrir
+Dos proyectos originales, con marcas ficticias e imágenes generadas con IA. Funcionan en un navegador moderno sin instalación ni conexión a Internet.
 
-1. Abre [bruma-de-olivo-v1.zip](bruma-de-olivo-v1.zip) y pulsa **Download raw file** en GitHub.
-2. Extrae el ZIP en tu equipo.
-3. Abre `bruma-de-olivo.html` en un navegador moderno.
+## Descargar el portafolio completo
 
-El archivo incluye las páginas de inicio, carta, historia y reservas de muestra. Imágenes, fuentes y estilos están integrados; no requiere instalación ni conexión a Internet.
+**[portafolio-v1.zip](portafolio-v1.zip)**
 
-El restaurante, su identidad y sus datos son ficticios. Las cinco imágenes se generaron con IA para esta propuesta. El formulario no envía ni guarda información y no realiza una reserva real.
+1. Abre el archivo en GitHub y pulsa **Download raw file**.
+2. Extrae todos sus archivos a la misma carpeta.
+3. Abre **`index.html`**: encontrarás una portada para elegir entre los dos proyectos.
 
-**Contenido del ZIP:** `bruma-de-olivo.html` y `LEEME.txt`.
+El ZIP contiene la portada, `bruma-de-olivo.html`, `nebula-botanica.html` y `LEEME.txt`. Los HTML ya incluyen sus imágenes, fuentes y código.
 
-**Tamaño:** 11 363 662 bytes.
+## 01 · Bruma de Olivo
 
-**SHA-256:** `bf510005f612a7b56395a9c2ed1568ccede37de53852a30006c7510d24d769ba`
+![Bruma de Olivo](preview-bruma.jpg)
+
+Una parrilla nocturna, íntima y sofisticada. Páginas de inicio, carta por categorías, historia y reservas de muestra.
+
+[Descargar solamente Bruma de Olivo](bruma-de-olivo-v1.zip). Extrae y abre `bruma-de-olivo.html`.
+
+## 02 · Nébula Botánica
+
+![Nébula Botánica](preview-nebula.jpg)
+
+Una casa de perfumería luminosa y editorial. Incluye catálogo por familias, tres fichas con variantes, favoritos, bolsa con cantidades y subtotales, historia de marca y un cuestionario para recomendar un aroma.
+
+[Descargar solamente Nébula Botánica](nebula-botanica-v1.zip). Extrae y abre `nebula-botanica.html`.
+
+## Sobre estas propuestas
+
+Todos los nombres comerciales, productos, precios, historias y datos de los negocios son ficticios. Se generaron cinco imágenes originales para cada proyecto. Las compras y reservas son demostraciones: no se cobran importes, no se tramitan pedidos ni se envían datos personales.
+
+No se necesita un servidor para revisar los HTML en un navegador personal. Se han probado las aplicaciones en escritorio y móvil emulado, además de las exportaciones independientes. Esto no representa una publicación en un dominio comercial.
+
+Los tamaños y las sumas de verificación de los tres ZIP se incluyen en [manifest.json](manifest.json).
