@@ -1,16 +1,20 @@
 # Archivo de ideas · portafolio de conceptos
 
-Dos proyectos originales, con marcas ficticias e imágenes generadas con IA. Funcionan en un navegador moderno sin instalación ni conexión a Internet.
+Tres proyectos originales, con marcas ficticias e imágenes generadas con IA. Funcionan en un navegador moderno sin instalación ni conexión a Internet.
 
 ## Descargar el portafolio completo
 
-**[portafolio-v1.zip](portafolio-v1.zip)**
+**[portafolio-v2.zip](portafolio-v2.zip)**
 
 1. Abre el archivo en GitHub y pulsa **Download raw file**.
 2. Extrae todos sus archivos a la misma carpeta.
-3. Abre **`index.html`**: encontrarás una portada para elegir entre los dos proyectos.
+3. Abre **`index.html`**: encontrarás una portada para elegir entre los tres proyectos.
 
-El ZIP contiene la portada, `bruma-de-olivo.html`, `nebula-botanica.html` y `LEEME.txt`. Los HTML ya incluyen sus imágenes, fuentes y código.
+El ZIP contiene la portada, `bruma-de-olivo.html`, `nebula-botanica.html`, `auralma.html` y `LEEME.txt`. Los HTML ya incluyen sus imágenes, fuentes y código. Al pie de cada sitio hay un enlace para volver al portafolio.
+
+La edición anterior de dos proyectos continúa disponible en [portafolio-v1.zip](portafolio-v1.zip).
+
+Para abrirlos en línea, consulta la [preparación de GitHub Pages](GITHUB-PAGES.md). Los archivos están listos en la rama `gh-pages`; la activación desde Settings está pendiente.
 
 ## 01 · Bruma de Olivo
 
@@ -28,10 +32,18 @@ Una casa de perfumería luminosa y editorial. Incluye catálogo por familias, tr
 
 [Descargar solamente Nébula Botánica](nebula-botanica-v1.zip). Extrae y abre `nebula-botanica.html`.
 
+## 03 · Auralma
+
+![Auralma](preview-auralma.jpg)
+
+Un hotel boutique costero de azul profundo, blanco sal y arena. Incluye inicio, habitaciones con filtro de capacidad y galerías, experiencias por categorías y una estancia de muestra con fechas, huéspedes, suites, complementos, totales y revisión editable. Seis imágenes originales generadas con IA.
+
+[Descargar solamente Auralma](auralma-v1.zip). Extrae y abre `auralma.html`.
+
 ## Sobre estas propuestas
 
-Todos los nombres comerciales, productos, precios, historias y datos de los negocios son ficticios. Se generaron cinco imágenes originales para cada proyecto. Las compras y reservas son demostraciones: no se cobran importes, no se tramitan pedidos ni se envían datos personales.
+Todos los nombres comerciales, productos, precios, historias y datos de los negocios son ficticios. Se generaron cinco imágenes originales para Bruma y Nébula, y seis para Auralma. Las compras y reservas son demostraciones: no se cobran importes, no se tramitan pedidos ni se envían datos personales.
 
 No se necesita un servidor para revisar los HTML en un navegador personal. Se han probado las aplicaciones en escritorio y móvil emulado, además de las exportaciones independientes. Esto no representa una publicación en un dominio comercial.
 
-Los tamaños y las sumas de verificación de los tres ZIP se incluyen en [manifest.json](manifest.json).
+Los tamaños y las sumas de verificación de los ZIP se incluyen en [manifest.json](manifest.json).

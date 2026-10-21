@@ -1,0 +1,13 @@
+{
+  "generadas_para": "Auralma",
+  "generador": "OpenAI image generation",
+  "originales": {
+    "costa": "/workspace/generated_images/exec-fbd8717b-7e0e-4981-a3c1-cfde463e43d8.png",
+    "suite": "/workspace/generated_images/exec-a5c964b0-0e4a-49ef-91a7-f992bafe8d61.png",
+    "terraza": "/workspace/generated_images/exec-fa32044c-95fb-4c3c-9e70-7ecc0892ad40.png",
+    "spa": "/workspace/generated_images/exec-a420283e-d65c-403a-898a-2f1b410d3f57.png",
+    "desayuno": "/workspace/generated_images/exec-0f5c3f09-fa7f-4fdb-bbdd-2622ed459aa5.png",
+    "horizonte": "/workspace/generated_images/exec-36319120-c6df-4a9c-a7ff-8c583f9f1a1f.png"
+  },
+  "nota": "Imágenes originales para una marca y una ubicación ficticias. Conversión técnica a WebP para reducir el peso sin depender de servicios externos."
+}

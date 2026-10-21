@@ -7,6 +7,16 @@
       "LEEME.txt"
     ]
   },
+  "portafolio-v1.zip": {
+    "bytes": 22965226,
+    "sha256": "89509f3a8b8df143339782010d9d50a0359ec7317541b7eb1f2a341b141e04bc",
+    "files": [
+      "index.html",
+      "bruma-de-olivo.html",
+      "nebula-botanica.html",
+      "LEEME.txt"
+    ]
+  },
   "nebula-botanica-v1.zip": {
     "bytes": 11350595,
     "sha256": "0eaa384a1f353144f1f7597745d6ad68ba3a37f2fbbb1ea19d6887f18429b9b0",
@@ -15,13 +25,22 @@
       "LEEME.txt"
     ]
   },
-  "portafolio-v1.zip": {
-    "bytes": 22965226,
-    "sha256": "89509f3a8b8df143339782010d9d50a0359ec7317541b7eb1f2a341b141e04bc",
+  "auralma-v1.zip": {
+    "bytes": 2261111,
+    "sha256": "e8f33bbfb2328c29697a2e870f7536b18ae9f5c5034264845887b6f616c67dbc",
+    "files": [
+      "auralma.html",
+      "LEEME.txt"
+    ]
+  },
+  "portafolio-v2.zip": {
+    "bytes": 25504658,
+    "sha256": "492e879117d3af08caa4c6909c005f35fa3e0a33fdbffab81e418035ac5ab1dc",
     "files": [
       "index.html",
       "bruma-de-olivo.html",
       "nebula-botanica.html",
+      "auralma.html",
       "LEEME.txt"
     ]
   }
